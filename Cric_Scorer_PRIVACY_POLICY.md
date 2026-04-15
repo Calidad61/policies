@@ -61,7 +61,16 @@ Our App does not specifically target children under the age of 13. If you are a 
 
 ---
 
-## 6. Changes to This Privacy Policy
+## 6. Data Deletion and Account Removal
+
+We respect your right to control your personal data. You may delete your account and all associated data at any time through the following methods:
+
+- **In-App Deletion:** Navigate to the **Profile** tab, scroll to the **Danger Zone**, and select **Delete Account**. This will permanently remove your user profile and all cloud-synced match data.
+- **Request via Email:** If you can no longer access the app, you may request account deletion by emailing us at **[Your Contact Email Here]**. Please include your registered email address. We will process your request within 7 days.
+
+---
+
+## 7. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
 
@@ -71,7 +80,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-**Email:** [Your Contact Email Here]
+**Email:** calidaddeveloper@gmail.com
 **Developer Entity:** com.calidad
 
 ---
