@@ -101,8 +101,7 @@ We may update this Privacy Policy from time to time to reflect changes in legal 
 
 If you have any questions, feedback, or concerns regarding this Privacy Policy or your child's privacy while using Little Artists Studio, please contact us:
 
-- **Developer / Publisher:** Little Artists Studio Team
-- **Contact Email:** [Your Support Email Address, e.g., support@littleartistsstudio.com]
-- **Website / Repository:** [Your Website or GitHub URL]
+- **Developer / Publisher:** Calidad Team
+- **Contact Email:** [calidaddeveloper@gmail.com]
 
 *(Please replace the bracketed placeholders above with your official contact email and website prior to publishing on Google Play Console).*
