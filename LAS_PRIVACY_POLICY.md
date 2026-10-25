@@ -104,4 +104,4 @@ If you have any questions, feedback, or concerns regarding this Privacy Policy o
 - **Developer / Publisher:** Calidad Team
 - **Contact Email:** [calidaddeveloper@gmail.com]
 
-*(Please replace the bracketed placeholders above with your official contact email and website prior to publishing on Google Play Console).*
+
